@@ -1,0 +1,37 @@
+.dateContainer > div{
+    border-right: 2px solid #E3E3E3;
+}
+
+.sideBar{
+    padding: 10px;
+}
+
+.sideBar>div{
+    height: 30px;
+    margin: 7px;
+    border-radius: 6px;
+}
+
+.sideBar>div:hover{
+    background: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25));
+    color: #8569da;
+}
+
+.startDateDiv,.endDateDiv{
+    padding: 15px;
+}
+
+
+.week-day{
+    padding: 5px;
+}
+
+.inputDiv{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.buttonDiv{
+    display: grid;
+    grid-template-columns: auto auto;
+}
