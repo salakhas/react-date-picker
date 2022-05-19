@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# React Date Picker Application
+
+This application allows user to select a start date as well as end date and change the theme of the date picker.
+## Tech Stack
+<ul>
+  <li>React.js</li>
+  <li>JSX</li>
+  <li>CSS</li>
+</ul>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/87031922/169220206-96d53fa8-c280-43a4-b7f2-5d5108f05cd1.png"/>
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
