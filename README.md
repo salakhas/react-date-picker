@@ -1,6 +1,10 @@
 # React Date Picker Application
 
-This application allows user to select a start date as well as end date and change the theme of the date picker.
+This application allows user to :
+  <li>select a start datee</li>
+  <li>select end date as well</li>
+  <li>change the theme of the date picker</li>
+
 ## Tech Stack
 <ul>
   <li>React.js</li>
